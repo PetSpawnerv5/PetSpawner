@@ -73,7 +73,7 @@ petInfoLabel.BackgroundTransparency = 1
 petInfoLabel.Font = Enum.Font.FredokaOne
 petInfoLabel.TextSize = 18
 petInfoLabel.TextColor3 = Color3.fromRGB(210, 210, 210)
-petInfoLabel.Text = "No pet equipped"
+petInfoLabel.Text = "yes pet equipped"
 petInfoLabel.TextXAlignment = Enum.TextXAlignment.Center
 petInfoLabel.Parent = frame
 
@@ -146,7 +146,7 @@ footer.BackgroundTransparency = 1
 footer.Font = Enum.Font.FredokaOne
 footer.TextSize = 14
 footer.TextColor3 = Color3.fromRGB(160, 160, 160)
-footer.Text = "Tiktok: @yawiyawiyawiz"
+footer.Text = "Tiktok: @nikra
 footer.TextXAlignment = Enum.TextXAlignment.Center
 footer.Parent = frame
 
